@@ -22,32 +22,6 @@ Program to implement the simple linear regression model for predicting the marks
 #### RegisterNumber: 212222240093 
 */
 ```python
-Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-AIM:
-To write a program to predict the marks scored by a student using the simple linear regression model.
-
-Equipments Required:
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Jupyter notebook
-Algorithm
-1.Import the standard Libraries.
-
-2.Set variables for assigning dataset values.
-
-3.Import linear regression from sklearn.
-
-4.Assign the points for representing in the graph.
-
-5.Predict the regression for marks by using the representation of the graph.
-
-6.Compare the graphs and hence we obtained the linear regression for the given datas.
-
-Program:
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: ARSHITHA MS
-RegisterNumber: 212223240015
-*/
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
